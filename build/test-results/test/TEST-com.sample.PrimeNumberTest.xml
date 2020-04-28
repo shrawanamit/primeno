@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sample.PrimeNumberTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-28T23:17:22" hostname="DESKTOP-LSKIBA4" time="0.007">
+  <properties/>
+  <testcase name="testPrimeNumberCheker[0]" classname="com.sample.PrimeNumberTest" time="0.005"/>
+  <testcase name="testPrimeNumberCheker[1]" classname="com.sample.PrimeNumberTest" time="0.0"/>
+  <testcase name="testPrimeNumberCheker[2]" classname="com.sample.PrimeNumberTest" time="0.0"/>
+  <system-out><![CDATA[Parameterized no is: 2
+Parameterized no is: 6
+Parameterized no is: 23
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
